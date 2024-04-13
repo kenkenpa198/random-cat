@@ -1,11 +1,13 @@
 # random-cat
 
+- Deployed: [https://random-cat-gold-sigma.vercel.app/](https://random-cat-gold-sigma.vercel.app/)
+
 ## Reference
 
 - [Next.jsで猫画像ジェネレーターを作ろう \| TypeScript入門『サバイバルTypeScript』](https://typescriptbook.jp/tutorials/nextjs)
-- [yytypescript/random-cat: チュートリアル「Next.jsで猫画像ジェネレーターを作ろう」の完成版コードです。](https://github.com/yytypescript/random-cat)
+- [Vercelにデプロイしてみよう \| TypeScript入門『サバイバルTypeScript』](https://typescriptbook.jp/tutorials/vercel-deploy)
 
-## Build
+## Build on local device
 
 ```shell
 # Required Yarn v1.*.*
@@ -18,7 +20,7 @@ $ cd random-cat
 # Install modules
 $ yarn install
 
-# Run dev server
+# Run develop server
 $ yarn run dev
 yarn run v1.22.22
 $ next
