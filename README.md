@@ -3,6 +3,7 @@
 ## Reference
 
 - [Next.jsで猫画像ジェネレーターを作ろう \| TypeScript入門『サバイバルTypeScript』](https://typescriptbook.jp/tutorials/nextjs)
+- [yytypescript/random-cat: チュートリアル「Next.jsで猫画像ジェネレーターを作ろう」の完成版コードです。](https://github.com/yytypescript/random-cat)
 
 ## Build
 
