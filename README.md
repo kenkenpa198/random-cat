@@ -1,3 +1,38 @@
+# random-cat
+
+## Reference
+
+- [Next.jsで猫画像ジェネレーターを作ろう \| TypeScript入門『サバイバルTypeScript』](https://typescriptbook.jp/tutorials/nextjs)
+
+## Build
+
+```shell
+# Required Yarn v1.*.*
+$ yarn --version
+1.22.22
+
+# Change directory
+$ cd random-cat
+
+# Install modules
+$ yarn install
+
+# Run dev server
+$ yarn run dev
+yarn run v1.22.22
+$ next
+   ▲ Next.js 14.1.4
+   - Local:        http://localhost:3000
+
+ ✓ Ready in 1426ms
+```
+
+---
+
+Below is a sample README.
+
+---
+
 # TypeScript Next.js example
 
 This is a really simple project that shows the usage of Next.js with TypeScript.
